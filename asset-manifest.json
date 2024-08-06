@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Natti_Amazon_Website/static/css/main.da69455c.css",
+    "main.js": "/Natti_Amazon_Website/static/js/main.a5a2e604.js",
+    "static/media/amazonImg_3.jpeg": "/Natti_Amazon_Website/static/media/amazonImg_3.189f4e62c7ad83cff272.jpeg",
+    "static/media/amazonImg_5.jpeg": "/Natti_Amazon_Website/static/media/amazonImg_5.37cfda9e0d2caf36f55a.jpeg",
+    "index.html": "/Natti_Amazon_Website/index.html",
+    "main.da69455c.css.map": "/Natti_Amazon_Website/static/css/main.da69455c.css.map",
+    "main.a5a2e604.js.map": "/Natti_Amazon_Website/static/js/main.a5a2e604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da69455c.css",
+    "static/js/main.a5a2e604.js"
+  ]
+}
